@@ -24,7 +24,7 @@ Unter 16-Jährige: Änderungskonstante von 24 Punkten (+4)
 2. **Längere Spielpausen:** Nach Inaktivität gelten folgende Regeln:
 - Nach 12 Monaten ohne Spiele erfolgt ein Abzug von 40 Punkten
 - Bei längerer Spielpause gibt es für jedes weitere Halbjahr einen Abzug von 20 Punkten
-- Der maximale Abzug wegen Inaktivität ist auf 120 Punkte begrenzt Tischtennistools
+- Der maximale Abzug wegen Inaktivität ist auf 120 Punkte begrenzt
 
 Bei Spielern, die seit über einem Jahr nicht an TTR-relevanten Wettkämpfen teilgenommen haben, wird für die nächsten 15 Einzel ebenfalls +4 auf die Änderungskonstante addiert, um eine schnellere Anpassung an das tatsächliche Spielniveau zu ermöglichen.
 
