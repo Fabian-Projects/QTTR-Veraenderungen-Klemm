@@ -1,0 +1,11 @@
+Statistik,Männer,Frauen
+Anzahl,24281.0,10098.0
+Mittelwert,30.04674436802438,52.05426817191523
+Median,3.0,36.0
+Standardabweichung,44.895858785929505,51.85520506056273
+Minimum,1.0,1.0
+Maximum,611.0,493.0
+25% Perzentil,1.0,2.0
+75% Perzentil,50.0,94.0
+T-Test (t-Wert),-37.23678152795729,
+p-Wert,1.2746515531637485e-291,
