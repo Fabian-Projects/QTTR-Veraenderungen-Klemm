@@ -168,7 +168,7 @@ Diese Grafiken haben eine csv-Datei als Referenz, die bereits die 300 stärksten
 **Hier wird Verteilung der Verbesserungen und Verschlechterungen, sowie die Größe der Veränderungen angezeigt**
 
 #### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
-![QTTR-Veränderung | Verbesserungen bzw. Verschlechterungen](/Data_Analysis/Darstellungen_Kai/qttr_veraenderungen_prozent_nach_zeitraum.png)
+![QTTR-Veränderung | Verbesserungen bzw. Verschlechterungen](/Data_Analysis/Darstellungen_Kai/qttr_verbesserungen_vs_verschlechterungen.png)
 
 **Verbesserungen:**
 - Anzahl: 274
@@ -181,7 +181,7 @@ Diese Grafiken haben eine csv-Datei als Referenz, die bereits die 300 stärksten
 **Hier werden Anteile der Verbesserungen und Verschlechterungen nach den Zeiträumen gezeigt**
 
 #### **Q1 2024 - Q1 2025 | Quartalsabstand**
-![QTTR-Veränderung | Verteilung Quartale](/Data_Analysis/Darstellungen_Kai/qttr_veraenderungen_nach_zeitraum.png)
+![QTTR-Veränderung | Verteilung Quartale](/Data_Analysis/Darstellungen_Kai/qttr_veraenderungen_prozent_nach_zeitraum.png)
 
 
 ---
