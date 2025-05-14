@@ -38,6 +38,5 @@ Die Forschung zielt in erster Linie darauf ab, ein besseres Verständnis des bes
 
 * Verwendung von QTTR-Datensätzen von 2011 - 2023 für Analysen
 * Statistische Analysen zu besonders auffälligen QTTR-Veränderungen
-* Berücksichtigung kontextueller Faktoren (Regeländerungen, Materialentwicklungen, Strukturveränderungen im Wettkampfsystem)
 
 Durch diesen umfassenden Ansatz strebt das Projekt an, sowohl wissenschaftlich fundierte Erkenntnisse über die Dynamik des QTTR-Systems zu gewinnen als auch praktisch anwendbare Empfehlungen für alle Beteiligten im Tischtennissport zu entwickeln.
