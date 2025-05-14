@@ -22,13 +22,7 @@ Das Hauptziel dieser Forschung ist es, signifikante Veränderungen im Quartals-T
 * Analyse von geschlechtsspezifischen Unterschieden in der QTTR-Volatilität
 * Vergleich der QTTR-Stabilität zwischen verschiedenen Spielniveaus (Anfänger bis Profi)
 
-4. **Evaluation der Prädiktivkraft des QTTR-Systems**
-
-* Bewertung, inwiefern große QTTR-Veränderungen tatsächliche Leistungsveränderungen widerspiegeln oder systematische Artefakte darstellen
-* Analyse der Vorhersagekraft des QTTR-Werts für zukünftige Spielergebnisse
-* Untersuchung, ob große QTTR-Veränderungen reversibel sind oder langfristige Trends anzeigen
-
-5. **Entwicklung und Empfehlungen**
+4. **Entwicklung und Empfehlungen**
 
 * Ableitung von Erkenntnissen zur Verbesserung der Interpretation von QTTR-Werten
 * Formulierung von Empfehlungen für Spieler, Trainer und Verbände zum Umgang mit QTTR-Schwankungen
