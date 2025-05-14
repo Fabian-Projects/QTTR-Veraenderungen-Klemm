@@ -124,7 +124,7 @@
 
 **Weitere statistische Kennzahlen zu der Grafik:**
 
-**Mittelwert:**
+**Mittelwert:**<br>
 0 - 10:     38,62 <br>
 11 - 50:    **41,29**<br>
 51 - 100:   32,30<br>
@@ -132,7 +132,7 @@
 201 - 500:  21,86<br>
 <500:       12,65<br>
 
-**Anzahl der Spieler:**
+**Anzahl der Spieler:**<br>
 0 - 10:     **12.419**<br>
 11 - 50:    12.200<br>
 51 - 100:   3.923<br>
@@ -153,4 +153,20 @@
 
 #### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
 ![QTTR-Veränderung Geschlechter](/Data_Analysis/Darstellungen_Kai/qttr_veraenderungen_nach_geschlecht.png)
+
+**Anzahl der Spieler pro Geschlecht**
+- Frauen: 10.098
+- Männer: 24.281
+
+---
+
+## **QTTR-Veränderungen | Verbesserungen vs. Verschlechterungen**
+
+**Wichtig!**
+Diese Grafiken haben eine csv-Datei als Referenz, die bereits die 300 stärksten Veränderungen zusammenfasst.
+
+**Hier wird Verteilung der Verbesserungen und Verschlechterungen, sowie die Größe der Veränderungen angezeigt**
+
+#### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
+![QTTR-Veränderung | Verbesserungen bzw. Verschlechterungen](/Data_Analysis/Darstellungen_Kai/qttr_verbesserungen_vs_verschlechterungen.png)
 
