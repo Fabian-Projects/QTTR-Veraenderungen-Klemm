@@ -120,7 +120,7 @@
 **Hier wird der Einfluss der Spielhäufigkeit auf die QTTR-Stabilität angezeigt**
 
 #### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
-(/Data_Analysis/Darstellungen_Kai/qttr_stabilitaet_nach_spielhaeufigkeit.png)
+![QTTR-Veränderungen Boxplot](/Data_Analysis/Darstellungen_Kai/qttr_stabilitaet_nach_spielhaeufigkeit.png)
 
 **Weitere statistische Kennzahlen zu der Grafik:**
 
@@ -152,5 +152,5 @@
 **Hier wird die Verteiling der maximalen QTTR-Veränderungen nach Geschlecht und die Verteilung der Veränderungskategorien angezeigt**
 
 #### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
-(/Data_Analysis/Darstellungen_Kai/qttr_veraenderungen_nach_geschlecht.png)
+![QTTR-Veränderung Geschlechter](/Data_Analysis/Darstellungen_Kai/qttr_veraenderungen_nach_geschlecht.png)
 
