@@ -170,3 +170,42 @@ Diese Grafiken haben eine csv-Datei als Referenz, die bereits die 300 stärksten
 #### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
 ![QTTR-Veränderung | Verbesserungen bzw. Verschlechterungen](/Data_Analysis/Darstellungen_Kai/qttr_verbesserungen_vs_verschlechterungen.png)
 
+**Verbesserungen:**
+- Anzahl: 274
+- Mittlere absolute Änderung: 189,41
+
+**Verschlechterungen:**
+- Anzahl: 26
+- Mittlere absolute Änderung: 234,81
+
+**Hier werden Anteile der Verbesserungen und Verschlechterungen nach den Zeiträumen gezeigt**
+
+#### **Q1 2024 - Q1 2025 | Quartalsabstand**
+![QTTR-Veränderung | Verteilung Quartale](/Data_Analysis/Darstellungen_Kai/qttr_veraenderungen_nach_zeitraum.png)
+
+
+---
+
+## **QTTR-Veränderungen nach Spielstärke und Aktivitätsniveau**
+
+**TTR-Kategorie:**
+- <1000
+- 1000 - 1200
+- 1200 - 1400
+- 1400 - 1600
+- 1600 - 1800
+- >2000
+
+**Aktivitätskategorie:**
+- 0 - 10
+- 11 - 50
+- 51 - 100
+- 101 - 200
+- 201 - 500
+- >500
+
+**Hier wird die durchschnittliche QTTR-Veränderung nach Spielstärke und Aktivitätsniveau angezeigt**
+
+#### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
+![QTTR-Veränderung | TTR-Veränderung nach Spielstärke und Aktivitätsniveau](/Data_Analysis/Darstellungen_Kai/qttr_veraenderung_heatmap.png)
+
