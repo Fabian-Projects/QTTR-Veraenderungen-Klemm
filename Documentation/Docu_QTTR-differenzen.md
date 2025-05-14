@@ -46,7 +46,7 @@
 - 1800 - 2199
 - 2200 +
 
-*Hierbei werden die stärksten Veränderungszeiträume angezeigt**
+**Hierbei werden die stärksten Veränderungszeiträume angezeigt**
 
 #### **Q1 2024 - Q1 2025 | Ein Jahr Abstand**
 ![QTTR-Veränderung innerhalb der QTTR-Gruppe | Boxplot](/Data_Analysis/Darstellungen_als_Bilder/ttr_gruppen_Q_TTR_dif_24_Q1_25_Q1.png)
@@ -85,7 +85,7 @@
 - Sachsen-Anhalt
 - Mecklenburg-Vorpommern
 
-*Hierbei werden die stärksten Veränderungszeiträume angezeigt**
+**Hierbei werden die stärksten Veränderungszeiträume angezeigt**
 
 #### **Q1 2024 - Q1 2025 | Ein Jahr Abstand**
 ![QTTR-Veränderung innerhalb der Verbände | Boxplot | Teil 1](/Data_Analysis/Darstellungen_als_Bilder/verband_teil1_Q_TTR_dif_24_Q1_25_Q1.png)
@@ -103,3 +103,54 @@
 ![QTTR-Veränderung innerhalb der Verbände | Boxplot | Teil 1](/Data_Analysis/Darstellungen_als_Bilder/verband_teil1_Q_TTR_dif_24_Q2_24_Q3.png)
 
 ![QTTR-Veränderung innerhalb der Verbände | Boxplot | Teil 2](/Data_Analysis/Darstellungen_als_Bilder/verband_teil2_Q_TTR_dif_24_Q2_24_Q3.png)
+
+
+---  
+
+## **QTTR-Stabilität nach Spielhäufigkeit**
+
+**Aktivitätskategorien:**
+- 0 - 10
+- 11 - 50
+- 51 - 100
+- 101 - 200
+- 201 - 500
+- <500
+
+**Hier wird der Einfluss der Spielhäufigkeit auf die QTTR-Stabilität angezeigt**
+
+#### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
+(/Data_Analysis/Darstellungen_Kai/qttr_stabilitaet_nach_spielhaeufigkeit.png)
+
+**Weitere statistische Kennzahlen zu der Grafik:**
+
+**Mittelwert:**
+0 - 10:     38,62
+11 - 50:    **41,29**
+51 - 100:   32,30
+101 - 200:  29,26
+201 - 500:  21,86
+<500:       12,65
+
+**Anzahl der Spieler:**
+0 - 10:     **12.419**
+11 - 50:    12.200
+51 - 100:   3.923
+101 - 200:  2.885
+201 - 500:  2.424
+<500:       528
+
+
+---
+
+## **QTTR-Veränderung nach Geschlecht**
+
+**Geschlechter**
+- W = weiblich
+- M = männlich
+
+**Hier wird die Verteiling der maximalen QTTR-Veränderungen nach Geschlecht und die Verteilung der Veränderungskategorien angezeigt**
+
+#### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
+(/Data_Analysis/Darstellungen_Kai/qttr_veraenderungen_nach_geschlecht.png)
+
