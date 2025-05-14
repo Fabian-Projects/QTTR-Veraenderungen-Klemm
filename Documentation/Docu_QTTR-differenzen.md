@@ -207,5 +207,17 @@ Diese Grafiken haben eine csv-Datei als Referenz, die bereits die 300 stärksten
 **Hier wird die durchschnittliche QTTR-Veränderung nach Spielstärke und Aktivitätsniveau angezeigt**
 
 #### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
-![QTTR-Veränderung | TTR-Veränderung nach Spielstärke und Aktivitätsniveau](/Data_Analysis/Darstellungen_Kai/qttr_veraenderung_heatmap.png)
+![QTTR-Veränderung | QTTR-Veränderung nach Spielstärke und Aktivitätsniveau](/Data_Analysis/Darstellungen_Kai/qttr_veraenderung_heatmap.png)
 
+### Interpretation der multiplen Regression
+
+**R-squared:** 0,121
+TTR-Wert und Spielhäufigkeit sind zusammen ein signifikanter Erklärungsbeitrag. Allerings ist es nur ein Indikator und kein Fakt, da 88% der Veränderungen durch andere, nicht im Modell berücksichigten Fakoren erklärt.
+
+**F-Statistik:** 2372 und **p-Wert:** 0.00
+Das Modell ist hochsignifikant (p<0,001), was bedeutet, F-Statistik: 2372 und p-Wert: 0.00
+
+
+---
+
+## **QTTR-Veränderungen | Betrachtung der Extremfälle**
