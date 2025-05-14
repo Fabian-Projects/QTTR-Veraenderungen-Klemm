@@ -168,7 +168,7 @@ Diese Grafiken haben eine csv-Datei als Referenz, die bereits die 300 stärksten
 **Hier wird Verteilung der Verbesserungen und Verschlechterungen, sowie die Größe der Veränderungen angezeigt**
 
 #### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
-![QTTR-Veränderung | Verbesserungen bzw. Verschlechterungen](/Data_Analysis/Darstellungen_Kai/qttr_verbesserungen_vs_verschlechterungen.png)
+![QTTR-Veränderung | Verbesserungen bzw. Verschlechterungen](/Data_Analysis/Darstellungen_Kai/qttr_veraenderungen_prozent_nach_zeitraum.png)
 
 **Verbesserungen:**
 - Anzahl: 274
@@ -194,7 +194,7 @@ Diese Grafiken haben eine csv-Datei als Referenz, die bereits die 300 stärksten
 - 1200 - 1400
 - 1400 - 1600
 - 1600 - 1800
-- >2000
+- \>2000
 
 **Aktivitätskategorie:**
 - 0 - 10
@@ -202,7 +202,7 @@ Diese Grafiken haben eine csv-Datei als Referenz, die bereits die 300 stärksten
 - 51 - 100
 - 101 - 200
 - 201 - 500
-- >500
+- \>500
 
 **Hier wird die durchschnittliche QTTR-Veränderung nach Spielstärke und Aktivitätsniveau angezeigt**
 
@@ -211,13 +211,27 @@ Diese Grafiken haben eine csv-Datei als Referenz, die bereits die 300 stärksten
 
 ### Interpretation der multiplen Regression
 
-**R-squared:** 0,121
+**R-squared:** 0,121<br>
 TTR-Wert und Spielhäufigkeit sind zusammen ein signifikanter Erklärungsbeitrag. Allerings ist es nur ein Indikator und kein Fakt, da 88% der Veränderungen durch andere, nicht im Modell berücksichigten Fakoren erklärt.
 
-**F-Statistik:** 2372 und **p-Wert:** 0.00
+**F-Statistik:** 2372 und **p-Wert:** 0.00<br>
 Das Modell ist hochsignifikant (p<0,001), was bedeutet, F-Statistik: 2372 und p-Wert: 0.00
 
 
 ---
 
 ## **QTTR-Veränderungen | Betrachtung der Extremfälle**
+
+**Hier werden anteilig die Extremfälle nach TTR-Kategorie und nach Aktivitätskategorie angezeigt**
+
+#### **Q1 2024 - Q1 2025 | Alle Quartale einberechnet**
+![QTTR-Veränderung | Anteil Extremfälle nach TTR-Kategorie und Aktivitätskategorie](/Data_Analysis/Darstellungen_Kai/qttr_extremfaelle_analyse_ttr_aktivitaet.png)
+
+### Zusammenfassung der Extremfälle
+
+- **Gesamtzahl:** 349
+- **Durchschnittliche Veränderung:** 189,76 Punkte
+- **Median Veränderung:** 177 Punkte
+- **Häufigstes Quartal:** 24_Q2 - 24_Q3
+- **Häufigste TTR-Kategorie:** 1600- 1800
+- **Häufigste Aktivitätskategorie:** 0 - 10
