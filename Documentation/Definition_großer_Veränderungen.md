@@ -22,7 +22,7 @@ Unter 21-Jährige: Änderungskonstante von 20 Punkten (+4) <br>
 Unter 16-Jährige: Änderungskonstante von 24 Punkten (+4)
 
 2. **Längere Spielpausen:** Nach Inaktivität gelten folgende Regeln:
-- Nach 12 Monaten ohne Spiele erfolgt ein Abzug von 40 Punkten
+- Nach 12 Monaten ohne Spiele erfolgt ein Abzug von 80 Punkten
 - Bei längerer Spielpause gibt es für jedes weitere Halbjahr einen Abzug von 20 Punkten
 - Der maximale Abzug wegen Inaktivität ist auf 120 Punkte begrenzt
 
