@@ -22,13 +22,7 @@ Das Hauptziel dieser Forschung ist es, signifikante Veränderungen im Quartals-T
 * Analyse von geschlechtsspezifischen Unterschieden in der QTTR-Volatilität
 * Vergleich der QTTR-Stabilität zwischen verschiedenen Spielniveaus (Anfänger bis Profi)
 
-4. **Evaluation der Prädiktivkraft des QTTR-Systems**
-
-* Bewertung, inwiefern große QTTR-Veränderungen tatsächliche Leistungsveränderungen widerspiegeln oder systematische Artefakte darstellen
-* Analyse der Vorhersagekraft des QTTR-Werts für zukünftige Spielergebnisse
-* Untersuchung, ob große QTTR-Veränderungen reversibel sind oder langfristige Trends anzeigen
-
-5. **Entwicklung und Empfehlungen**
+4. **Entwicklung und Empfehlungen**
 
 * Ableitung von Erkenntnissen zur Verbesserung der Interpretation von QTTR-Werten
 * Formulierung von Empfehlungen für Spieler, Trainer und Verbände zum Umgang mit QTTR-Schwankungen
@@ -44,6 +38,5 @@ Die Forschung zielt in erster Linie darauf ab, ein besseres Verständnis des bes
 
 * Verwendung von QTTR-Datensätzen von 2011 - 2023 für Analysen
 * Statistische Analysen zu besonders auffälligen QTTR-Veränderungen
-* Berücksichtigung kontextueller Faktoren (Regeländerungen, Materialentwicklungen, Strukturveränderungen im Wettkampfsystem)
 
 Durch diesen umfassenden Ansatz strebt das Projekt an, sowohl wissenschaftlich fundierte Erkenntnisse über die Dynamik des QTTR-Systems zu gewinnen als auch praktisch anwendbare Empfehlungen für alle Beteiligten im Tischtennissport zu entwickeln.

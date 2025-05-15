@@ -215,7 +215,7 @@ Diese Grafiken haben eine csv-Datei als Referenz, die bereits die 300 stärksten
 TTR-Wert und Spielhäufigkeit sind zusammen ein signifikanter Erklärungsbeitrag. Allerings ist es nur ein Indikator und kein Fakt, da 88% der Veränderungen durch andere, nicht im Modell berücksichigten Fakoren erklärt.
 
 **F-Statistik:** 2372 und **p-Wert:** 0.00<br>
-Das Modell ist hochsignifikant (p<0,001), was bedeutet, F-Statistik: 2372 und p-Wert: 0.00
+Das Modell ist hochsignifikant (p<0,001), was bedeutet, dass die unabhängigen Variablen gemeinsam einen statistisch bedeutsamen Einfluss auf die QTTR-Veränderungen haben.
 
 
 ---
