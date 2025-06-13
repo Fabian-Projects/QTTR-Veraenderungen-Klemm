@@ -111,3 +111,23 @@ Bei Spielern, die seit über einem Jahr nicht an TTR-relevanten Wettkämpfen tei
 
 3. **TTR-Differenz zum Gegner:** Entscheidend für die Berechnung der Gewinnwahrscheinlichkeit und damit der Punkteänderung ist der Abstand zwischen den TTR-Werten beider Spieler. Bei einer Differenz von 224 TTR-Punkten oder mehr erhält der Favorit im Fall eines Sieges normalerweise keinen Punktezuwachs mehr, und der unterlegene Spieler bleibt ohne Punktverlust.
 
+---
+
+# **3. Datengrundlage**
+
+Als Datengrundlage wurden die Quartalsdaten von 2023 - 2025 genutzt:
+
+**2023**
+- Q-TTR-Liste_20230211_komplett.csv
+- Q-TTR-Liste_20230511_komplett.csv
+- Q-TTR-Liste_20230811_komplett.csv
+- Q-TTR-Liste_20231211_komplett.csv
+
+**2024**
+- Q-TTR-Liste_20240211_komplett.csv
+- Q-TTR-Liste_20240511_komplett.csv
+- Q-TTR-Liste_20240811_komplett.csv
+- Q-TTR-Liste_20241211_komplett.csv
+
+**2025**
+- Q-TTR-Liste_20250211_komplett.csv
