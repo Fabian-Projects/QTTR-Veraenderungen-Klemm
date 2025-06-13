@@ -131,3 +131,10 @@ Als Datengrundlage wurden die Quartalsdaten von 2023 - 2025 genutzt:
 
 **2025**
 - Q-TTR-Liste_20250211_komplett.csv
+
+Für eine einfachere Analyse wurden die Datensätze genutzt, um einen neuen Datensatz zu erstellen, der für jedes Quartal die TTR-Veränderungen beinhaltet.
+
+---
+
+# **4. Datenanalyse**
+## 4.1 **Extreme Veränderungen durch manuelle Korrekturen**
