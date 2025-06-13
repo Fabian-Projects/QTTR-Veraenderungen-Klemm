@@ -14,7 +14,8 @@
 
 ### 1.5 **Entwicklung und Empfehlungen**
 
-### **2. Definition großer Veränderungen**
+## **2. Definition großer Veränderungen**
 ### 2.1 **Grundlegende Schwankungen**
 
 ### 2.2 **Einflussfaktoren auf die Schwankungsbreite**
+
