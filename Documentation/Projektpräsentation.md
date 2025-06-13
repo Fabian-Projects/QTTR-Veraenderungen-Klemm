@@ -2,3 +2,6 @@
 
 ## Gliederung
 ---
+
+### **1. Forschungsziele**
+1.1 **Definition und Quantifizierung großer QTTR-Veränderungen**
