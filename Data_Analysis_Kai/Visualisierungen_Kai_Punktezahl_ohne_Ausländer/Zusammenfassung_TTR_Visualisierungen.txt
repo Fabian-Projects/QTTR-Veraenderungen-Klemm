@@ -1,0 +1,16 @@
+================================================================================
+ZUSAMMENFASSUNG - TTR-VERÄNDERUNGS-VISUALISIERUNGEN
+================================================================================
+
+Erstellungsdatum: 2025-06-27 15:31:59
+Speicherort: /Users/kaihufnagel/Documents/BBA/6. Semester/BA Projekt I/QTTR-Veraenderungen-Klemm/Data_Analysis_Kai/Visualisierungen_Kai_Punktezahl_ohne_Ausländer
+Dateiformat: png
+Anzahl Visualisierungen: 6
+
+ÜBERSICHT ERSTELLTER VISUALISIERUNGEN:
+--------------------------------------------------------------------------------
+1. TTR-Veränderungen Q1→Q2 2024
+   Datei: TTR_Veraenderungen_Q1_Q2_2024.png
+   Anzahl Spieler: 739453
+   TTR-Kategorien: 7
+   Ø TTR-Veränderung: -0.1

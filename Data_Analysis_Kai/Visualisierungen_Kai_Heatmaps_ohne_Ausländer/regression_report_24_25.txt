@@ -1,0 +1,39 @@
+
+    ═══════════════════════════════════════════════════════════
+                    DETAILLIERTE REGRESSIONSANALYSE
+                            2024→2025
+    ═══════════════════════════════════════════════════════════
+    
+    📊 DATENÜBERSICHT:
+    ▪ Gesamte Stichprobe: 723,551 Spieler
+    ▪ TTR-Veränderung: μ = -0.51, σ = 26.64
+    ▪ Spieleanzahl: μ = 149.8, σ = 175.8
+    ▪ TTR-Level: μ = 1092, σ = 229
+    
+    🔗 KORRELATIONSMATRIX:
+    ▪ Spiele ↔ TTR-Veränderung: r = -0.1235
+    ▪ TTR ↔ TTR-Veränderung: r = -0.1018
+    ▪ Spiele ↔ TTR-Level: r = 0.6687
+    
+    📈 MULTIPLE REGRESSION:
+    ▪ R² = 0.0159 (1.6% erklärte Varianz)
+    ▪ Adj. R² ≈ 0.0159
+    ▪ RMSE = 26.428
+    ▪ F-Statistik: 5854.85
+    
+    🧮 REGRESSIONSKOEFFIZIENTEN:
+    ▪ Konstante (Intercept): 6.1844
+    ▪ Spiele-Koeffizient: -0.015198
+    ▪ TTR-Koeffizient: -0.004044
+    
+    💡 PRAKTISCHE INTERPRETATION:
+    ▪ Pro zusätzlichem Spiel: -0.0152 TTR-Punkte Veränderung
+    ▪ Pro 100 TTR-Punkte höher: -0.40 TTR-Punkte Veränderung
+    ▪ Ein Spieler mit 1400 TTR und 100 Spielen: -1.0 TTR Veränderung
+    
+    📊 MODELLGÜTE:
+    ▪ Modell erklärt 1.6% der Varianz in TTR-Veränderungen
+    ▪ Verbleibende Standardabweichung: 26.43 TTR-Punkte
+    
+    ═══════════════════════════════════════════════════════════
+    
