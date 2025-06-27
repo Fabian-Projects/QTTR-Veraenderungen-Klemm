@@ -1,3 +1,5 @@
+![Verteilung der Spieler mit großen Veränderungen (Top 1%) | Barchart](/Data_Analysis_Kai/Visualisierungen_Kai_Spieleanzahl_Top1/spieler_verteilung_spielebereiche_q1_2024.png)
+
 # Unsere Spielerschaft: Wer spielt bei uns?
 
 **156.749 aktive Spieler** verteilen sich wie folgt:
